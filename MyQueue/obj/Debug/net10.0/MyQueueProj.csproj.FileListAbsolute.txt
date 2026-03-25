@@ -1,0 +1,16 @@
+C:\Users\Admin\source\repos\ConsoleApp\MyQueue\bin\Debug\net10.0\MyQueueProj.deps.json
+C:\Users\Admin\source\repos\ConsoleApp\MyQueue\bin\Debug\net10.0\MyQueueProj.dll
+C:\Users\Admin\source\repos\ConsoleApp\MyQueue\bin\Debug\net10.0\MyQueueProj.pdb
+C:\Users\Admin\source\repos\ConsoleApp\MyQueue\bin\Debug\net10.0\MyLinkedListProj.dll
+C:\Users\Admin\source\repos\ConsoleApp\MyQueue\bin\Debug\net10.0\MyLinkedListProj.pdb
+C:\Users\Admin\source\repos\ConsoleApp\MyQueue\obj\Debug\net10.0\MyQueueProj.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\ConsoleApp\MyQueue\obj\Debug\net10.0\MyQueueProj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\ConsoleApp\MyQueue\obj\Debug\net10.0\MyQueueProj.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\ConsoleApp\MyQueue\obj\Debug\net10.0\MyQueueProj.AssemblyInfo.cs
+C:\Users\Admin\source\repos\ConsoleApp\MyQueue\obj\Debug\net10.0\MyQueueProj.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ConsoleApp\MyQueue\obj\Debug\net10.0\MyQueueProj.sourcelink.json
+C:\Users\Admin\source\repos\ConsoleApp\MyQueue\obj\Debug\net10.0\MyQueueP.40DE9BAB.Up2Date
+C:\Users\Admin\source\repos\ConsoleApp\MyQueue\obj\Debug\net10.0\MyQueueProj.dll
+C:\Users\Admin\source\repos\ConsoleApp\MyQueue\obj\Debug\net10.0\refint\MyQueueProj.dll
+C:\Users\Admin\source\repos\ConsoleApp\MyQueue\obj\Debug\net10.0\MyQueueProj.pdb
+C:\Users\Admin\source\repos\ConsoleApp\MyQueue\obj\Debug\net10.0\ref\MyQueueProj.dll

@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\ConsoleApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CDF1A9C1-752C-42D0-961F-C5169BEFD97B}|MyLinkedListUsage\\Usage.csproj|c:\\users\\admin\\source\\repos\\consoleapp\\mylinkedlistusage\\usage.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CDF1A9C1-752C-42D0-961F-C5169BEFD97B}|MyLinkedListUsage\\Usage.csproj|solutionrelative:mylinkedlistusage\\usage.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFDB65C1-6439-422A-97A6-5ED0D1C8612B}|MyHashTable\\MyHashTable.csproj|c:\\users\\admin\\source\\repos\\consoleapp\\myhashtable\\myhashtable.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AFDB65C1-6439-422A-97A6-5ED0D1C8612B}|MyHashTable\\MyHashTable.csproj|solutionrelative:myhashtable\\myhashtable.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDF1A9C1-752C-42D0-961F-C5169BEFD97B}|MyLinkedListUsage\\Usage.csproj|c:\\users\\admin\\source\\repos\\consoleapp\\mylinkedlistusage\\usage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDF1A9C1-752C-42D0-961F-C5169BEFD97B}|MyLinkedListUsage\\Usage.csproj|solutionrelative:mylinkedlistusage\\usage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFDB65C1-6439-422A-97A6-5ED0D1C8612B}|MyHashTable\\MyHashTable.csproj|c:\\users\\admin\\source\\repos\\consoleapp\\myhashtable\\myhashtable.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{AFDB65C1-6439-422A-97A6-5ED0D1C8612B}|MyHashTable\\MyHashTable.csproj|solutionrelative:myhashtable\\myhashtable.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFDB65C1-6439-422A-97A6-5ED0D1C8612B}|MyHashTable\\MyHashTable.csproj|c:\\users\\admin\\source\\repos\\consoleapp\\myhashtable\\myhash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFDB65C1-6439-422A-97A6-5ED0D1C8612B}|MyHashTable\\MyHashTable.csproj|solutionrelative:myhashtable\\myhash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MyHashTable",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\ConsoleApp\\MyHashTable\\MyHashTable.csproj",
+              "RelativeDocumentMoniker": "MyHashTable\\MyHashTable.csproj",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\ConsoleApp\\MyHashTable\\MyHashTable.csproj",
+              "RelativeToolTip": "MyHashTable\\MyHashTable.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-24T15:03:44.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MyHashTable",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\ConsoleApp\\MyHashTable\\MyHashTable.csproj",
+              "RelativeDocumentMoniker": "MyHashTable\\MyHashTable.csproj",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\ConsoleApp\\MyHashTable\\MyHashTable.csproj",
+              "RelativeToolTip": "MyHashTable\\MyHashTable.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-24T15:06:18.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MyHash.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\ConsoleApp\\MyHashTable\\MyHash.cs",
+              "RelativeDocumentMoniker": "MyHashTable\\MyHash.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\ConsoleApp\\MyHashTable\\MyHash.cs",
+              "RelativeToolTip": "MyHashTable\\MyHash.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T14:58:55.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Usage.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\ConsoleApp\\MyLinkedListUsage\\Usage.cs",
+              "RelativeDocumentMoniker": "MyLinkedListUsage\\Usage.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\ConsoleApp\\MyLinkedListUsage\\Usage.cs",
+              "RelativeToolTip": "MyLinkedListUsage\\Usage.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAAAFsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-21T10:18:55.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Usage",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\ConsoleApp\\MyLinkedListUsage\\Usage.csproj",
+              "RelativeDocumentMoniker": "MyLinkedListUsage\\Usage.csproj",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\ConsoleApp\\MyLinkedListUsage\\Usage.csproj",
+              "RelativeToolTip": "MyLinkedListUsage\\Usage.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-21T09:40:14.48Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

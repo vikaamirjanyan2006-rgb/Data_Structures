@@ -1,0 +1,16 @@
+C:\Users\Admin\source\repos\ConsoleApp\MyStackk\obj\Debug\net10.0\MyStackProj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\ConsoleApp\MyStackk\obj\Debug\net10.0\MyStackProj.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\ConsoleApp\MyStackk\obj\Debug\net10.0\MyStackProj.AssemblyInfo.cs
+C:\Users\Admin\source\repos\ConsoleApp\MyStackk\obj\Debug\net10.0\MyStackProj.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ConsoleApp\MyStackk\obj\Debug\net10.0\MyStackProj.sourcelink.json
+C:\Users\Admin\source\repos\ConsoleApp\MyStackk\bin\Debug\net10.0\MyStackProj.deps.json
+C:\Users\Admin\source\repos\ConsoleApp\MyStackk\bin\Debug\net10.0\MyStackProj.dll
+C:\Users\Admin\source\repos\ConsoleApp\MyStackk\bin\Debug\net10.0\MyStackProj.pdb
+C:\Users\Admin\source\repos\ConsoleApp\MyStackk\bin\Debug\net10.0\MyLinkedListProj.dll
+C:\Users\Admin\source\repos\ConsoleApp\MyStackk\bin\Debug\net10.0\MyLinkedListProj.pdb
+C:\Users\Admin\source\repos\ConsoleApp\MyStackk\obj\Debug\net10.0\MyStackProj.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\ConsoleApp\MyStackk\obj\Debug\net10.0\MyStackP.DFFD5945.Up2Date
+C:\Users\Admin\source\repos\ConsoleApp\MyStackk\obj\Debug\net10.0\MyStackProj.dll
+C:\Users\Admin\source\repos\ConsoleApp\MyStackk\obj\Debug\net10.0\refint\MyStackProj.dll
+C:\Users\Admin\source\repos\ConsoleApp\MyStackk\obj\Debug\net10.0\MyStackProj.pdb
+C:\Users\Admin\source\repos\ConsoleApp\MyStackk\obj\Debug\net10.0\ref\MyStackProj.dll

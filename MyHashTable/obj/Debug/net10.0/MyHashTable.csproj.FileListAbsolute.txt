@@ -1,0 +1,12 @@
+C:\Users\Admin\source\repos\ConsoleApp\MyHashTable\obj\Debug\net10.0\MyHashTable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\ConsoleApp\MyHashTable\obj\Debug\net10.0\MyHashTable.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\ConsoleApp\MyHashTable\obj\Debug\net10.0\MyHashTable.AssemblyInfo.cs
+C:\Users\Admin\source\repos\ConsoleApp\MyHashTable\obj\Debug\net10.0\MyHashTable.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ConsoleApp\MyHashTable\obj\Debug\net10.0\MyHashTable.sourcelink.json
+C:\Users\Admin\source\repos\ConsoleApp\MyHashTable\bin\Debug\net10.0\MyHashTable.deps.json
+C:\Users\Admin\source\repos\ConsoleApp\MyHashTable\bin\Debug\net10.0\MyHashTable.dll
+C:\Users\Admin\source\repos\ConsoleApp\MyHashTable\bin\Debug\net10.0\MyHashTable.pdb
+C:\Users\Admin\source\repos\ConsoleApp\MyHashTable\obj\Debug\net10.0\MyHashTable.dll
+C:\Users\Admin\source\repos\ConsoleApp\MyHashTable\obj\Debug\net10.0\refint\MyHashTable.dll
+C:\Users\Admin\source\repos\ConsoleApp\MyHashTable\obj\Debug\net10.0\MyHashTable.pdb
+C:\Users\Admin\source\repos\ConsoleApp\MyHashTable\obj\Debug\net10.0\ref\MyHashTable.dll
